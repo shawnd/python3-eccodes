@@ -1,4 +1,4 @@
-FROM python:3.7-slim-jessie
+FROM python:3.6.8-slim-jessie
 
 ENV ECCODES_VERSION 2.12.0
 
